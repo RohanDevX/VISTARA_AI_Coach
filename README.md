@@ -39,7 +39,7 @@ All designed to **boost your career growth using Next.js 15, Gemini AI & Prisma*
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/vistara-ai-career-coach.git
+git clone https://github.com/RohanDevX/vistara-ai-career-coach.git
 cd vistara-ai-career-coach
 npm install
 npm run dev
